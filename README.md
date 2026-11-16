@@ -15,8 +15,6 @@ A reframing and problem-definition skill for Claude, Claude Code and Hermes: 26 
 
 Most bad solutions start with a well-solved wrong problem. Panta Rhei Reframe takes the problem as you first state it, turns it through four to six lenses from coaching, systems thinking and design practice, and marks the reframes that would change what you work on. You get back a one-sentence problem statement with an owner, ready to brainstorm, diagnose or decide.
 
-<p align="center"><img src="assets/demo.gif" alt="A Reframe session: the first statement of a problem rotated through five lenses, two marked live, and the rewritten problem statement" width="85%"></p>
-
 ## Try it
 
 Say any of these after installing:
