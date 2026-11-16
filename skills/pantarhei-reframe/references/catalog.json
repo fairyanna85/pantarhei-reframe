@@ -1,0 +1,1732 @@
+{
+ "skill": "pantarhei-reframe",
+ "schema": "core/schema/method.schema.json",
+ "count": 40,
+ "records": [
+  {
+   "slug": "frame.ferriss-questions",
+   "name": "Testing the impossible (17 questions)",
+   "kind": "question_bank",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Tim Ferriss",
+    "work": "Tools of Titans; podcast #206",
+    "type": "practitioner",
+    "year": 2016,
+    "note": "Original list at tim.blog (episode #206). Paraphrase only; do not reproduce.",
+    "url": "https://tim.blog/?p=31415"
+   },
+   "source_verified": true,
+   "summary": "A set of questions that test whether constraints are real: run the opposite for a short time, imagine the easy version, solve only by removing, price the ideal life, and so on. Paraphrased; original list linked.",
+   "key_question": "Which limit here is a rule I could break for a short experiment?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "that's impossible in my situation",
+    "I feel boxed in by my constraints",
+    "what if the rules didn't apply",
+    "is this limit real or assumed"
+   ],
+   "produces": "a list of the constraints tested, each marked real, assumed or worth a short experiment",
+   "failure_mode": "Treating the questions as inspiration and never naming a concrete experiment.",
+   "time_cost": "quick",
+   "group": "either",
+   "questions": [
+    {
+     "text": "What happens if I do the opposite of my habit here for two days?",
+     "paraphrased": true
+    },
+    {
+     "text": "If this were easy, what would it look like?",
+     "paraphrased": true
+    },
+    {
+     "text": "How would I do this in half the time I think it needs?",
+     "paraphrased": true
+    },
+    {
+     "text": "If I could only remove things, never add, how would I solve it?",
+     "paraphrased": true
+    },
+    {
+     "text": "What is the worst realistic outcome, and could I recover from it?",
+     "paraphrased": true
+    },
+    {
+     "text": "If I had only two hours a week for this, what would I spend them on?",
+     "paraphrased": true
+    },
+    {
+     "text": "What would I do if money were not the constraint, and what would that really cost?",
+     "paraphrased": true
+    },
+    {
+     "text": "Am I spending effort on many small wins or on the few large ones?",
+     "paraphrased": true
+    },
+    {
+     "text": "What happens if I do nothing at all?",
+     "paraphrased": true
+    },
+    {
+     "text": "Which channel or route here is least crowded?",
+     "paraphrased": true
+    },
+    {
+     "text": "Do I have to win it back the same way I lost it?",
+     "paraphrased": true
+    },
+    {
+     "text": "What could I set up so that the good outcome becomes the default?",
+     "paraphrased": true
+    }
+   ],
+   "pairs_with": [
+    "frame.how-might-we",
+    "frame.control-map"
+   ]
+  },
+  {
+   "slug": "frame.robbins-questions",
+   "name": "Problem-solving questions",
+   "kind": "question_bank",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Tony Robbins",
+    "work": "Awaken the Giant Within",
+    "type": "practitioner",
+    "year": 1991,
+    "note": "Motivational practitioner source. Useful for state and agency; no research behind it. Paraphrase only.",
+    "url": "https://search.icpl.org/Record/1066934"
+   },
+   "source_verified": true,
+   "summary": "Five questions that move attention from complaint to agency: what is useful in this problem, what is not yet right, what will I start doing, what will I stop doing, how can the work itself be made enjoyable. Paraphrased.",
+   "key_question": "What in this problem is useful to me, and what will I start and stop doing about it?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "I keep complaining about this problem",
+    "I feel stuck and annoyed",
+    "how do I stop feeling helpless about this",
+    "turn this frustration into action"
+   ],
+   "produces": "five answers covering what is useful, what is unfinished, what to start, what to stop and how to make it lighter",
+   "failure_mode": "Answering only the comfortable questions and skipping what to stop doing.",
+   "time_cost": "quick",
+   "group": "either",
+   "questions": [
+    {
+     "text": "What could be useful or instructive about this problem?",
+     "paraphrased": true
+    },
+    {
+     "text": "What is not yet the way I want it?",
+     "paraphrased": true
+    },
+    {
+     "text": "What am I willing to start doing to change it?",
+     "paraphrased": true
+    },
+    {
+     "text": "What am I willing to stop doing?",
+     "paraphrased": true
+    },
+    {
+     "text": "How could I do the work involved and enjoy it more?",
+     "paraphrased": true
+    }
+   ],
+   "pairs_with": [
+    "frame.control-map",
+    "frame.how-might-we"
+   ]
+  },
+  {
+   "slug": "frame.rohn-questions",
+   "name": "Influence and seasons",
+   "kind": "question_bank",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Jim Rohn",
+    "work": "Seminars; The Seasons of Life",
+    "type": "practitioner",
+    "year": "1981",
+    "note": "Exact wording and sources need verification; Rohn's material is largely spoken.",
+    "url": "https://www.abebooks.com/9780939490004/Seasons-Life-Jim-Rohn-0939490005/plp"
+   },
+   "source_verified": true,
+   "summary": "Questions about who and what is shaping you (who am I around, what are they doing to me, is that acceptable) and about timing: which season of effort, planting or harvest, the situation is in.",
+   "key_question": "Who is shaping how I see this, and is that acceptable to me?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "are the people around me holding me back",
+    "is this the right time to push",
+    "who is influencing my decisions",
+    "I'm in a slump and don't know why"
+   ],
+   "produces": "a short note on the main influences acting on the situation and the season it is in",
+   "failure_mode": "Blaming the environment and skipping the question of whether the influence is acceptable to you.",
+   "time_cost": "quick",
+   "group": "either",
+   "questions": [
+    {
+     "text": "Who am I spending most of my time with on this?",
+     "paraphrased": true
+    },
+    {
+     "text": "What are those people and inputs doing to my thinking and standards?",
+     "paraphrased": true
+    },
+    {
+     "text": "Is that influence acceptable to me?",
+     "paraphrased": true
+    },
+    {
+     "text": "Is this a season for planting effort or for harvesting results?",
+     "paraphrased": true
+    },
+    {
+     "text": "What should this season ask of me that I am avoiding?",
+     "paraphrased": true
+    }
+   ],
+   "pairs_with": [
+    "frame.control-map",
+    "frame.stakeholder-map"
+   ]
+  },
+  {
+   "slug": "frame.coaching-questions",
+   "name": "Seven coaching questions",
+   "kind": "question_bank",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Michael Bungay Stanier",
+    "work": "The Coaching Habit",
+    "type": "practitioner",
+    "year": 2016,
+    "note": "Paraphrase only.",
+    "url": "https://pagetwo.com/book/the-coaching-habit/"
+   },
+   "source_verified": true,
+   "summary": "A short sequence that pulls the real issue to the surface: what is on your mind, what else, what is the real challenge for you here, what do you want, and what would saying yes cost you. Paraphrased.",
+   "key_question": "What is the real challenge here, for me specifically?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "help me figure out what's really bothering me",
+    "coach me through this",
+    "I don't know what I actually want here",
+    "I'm overwhelmed and can't name the issue"
+   ],
+   "produces": "the real challenge in one sentence, what the person wants, and what saying yes would cost",
+   "failure_mode": "Jumping to advice after the first answer instead of asking what else.",
+   "time_cost": "quick",
+   "group": "either",
+   "questions": [
+    {
+     "text": "What is on your mind right now?",
+     "paraphrased": true
+    },
+    {
+     "text": "And what else is there?",
+     "paraphrased": true
+    },
+    {
+     "text": "Of all that, what is the real challenge here for you?",
+     "paraphrased": true
+    },
+    {
+     "text": "What do you actually want?",
+     "paraphrased": true
+    },
+    {
+     "text": "How can I or anyone else help?",
+     "paraphrased": true
+    },
+    {
+     "text": "If you say yes to this, what are you saying no to?",
+     "paraphrased": true
+    },
+    {
+     "text": "What was most useful in thinking this through?",
+     "paraphrased": true
+    }
+   ],
+   "pairs_with": [
+    "frame.how-might-we",
+    "frame.lights-on"
+   ]
+  },
+  {
+   "slug": "frame.question-burst",
+   "name": "Question burst",
+   "kind": "method",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Hal Gregersen",
+    "work": "Questions Are the Answer",
+    "type": "practitioner",
+    "year": 2018,
+    "note": "Gregersen, MIT Leadership Center."
+   },
+   "source_verified": false,
+   "summary": "For four minutes, generate only questions about the problem, no answers and no preamble. Then pick the questions that open a new direction.",
+   "key_question": "Which question about this problem have I never asked?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "I don't even know what to ask",
+    "we're stuck on the same answer",
+    "open up this problem",
+    "we keep debating solutions"
+   ],
+   "produces": "a list of 15 or more questions with the two or three that open a new direction marked",
+   "failure_mode": "Letting answers or explanations creep in during the burst.",
+   "time_cost": "quick",
+   "group": "either",
+   "steps": [
+    "State the problem in a sentence or two, without background.",
+    "Set a four-minute timer.",
+    "Write only questions about the problem: no answers, no justifications, no preamble.",
+    "Aim for at least fifteen questions.",
+    "Mark the questions that feel new or uncomfortable.",
+    "Pick one or two of those to carry forward as the new problem statement."
+   ],
+   "pairs_with": [
+    "frame.how-might-we",
+    "frame.reframing-canvas"
+   ]
+  },
+  {
+   "slug": "frame.reframing-canvas",
+   "name": "Frame-storming",
+   "kind": "method",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Thomas Wedell-Wedellsborg",
+    "work": "What's Your Problem?",
+    "type": "practitioner",
+    "year": 2020
+   },
+   "source_verified": false,
+   "summary": "Before solving, look outside the frame, rethink the goal, examine bright spots, look in the mirror at your own role, and take the other parties' perspective. Fast, repeated reframing, not lengthy diagnosis.",
+   "key_question": "Is this the right problem to be solving at all?",
+   "status": "complete",
+   "tension_with": [
+    "solve.issue-tree"
+   ],
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "are we solving the right problem",
+    "reframe this problem",
+    "everyone agrees on the problem too fast",
+    "the obvious fix keeps failing"
+   ],
+   "produces": "two to four alternative framings of the problem, with the one to test next marked",
+   "failure_mode": "Turning the five moves into a long diagnosis instead of quick passes.",
+   "time_cost": "quick",
+   "group": "either",
+   "steps": [
+    "Write the problem as currently stated.",
+    "Look outside the frame: what has been left out of the picture?",
+    "Rethink the goal: is there a better objective behind the stated one?",
+    "Look for bright spots: where is the problem absent or already solved?",
+    "Look in the mirror: how does your own role contribute?",
+    "Take the other parties' view: how would they describe the problem?",
+    "Choose the most promising reframe and decide how to test it quickly."
+   ],
+   "pairs_with": [
+    "frame.how-might-we",
+    "frame.problem-statement"
+   ]
+  },
+  {
+   "slug": "frame.lights-on",
+   "name": "Whose problem is it?",
+   "kind": "question_bank",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Donald Gause & Gerald Weinberg",
+    "work": "Are Your Lights On?",
+    "type": "practitioner",
+    "year": 1982,
+    "url": "https://dorsethouse.com/books/aylocontents.html"
+   },
+   "source_verified": true,
+   "summary": "A problem is a difference between things as desired and things as perceived. Ask what the problem is, whose it is, where it came from, and whether anyone actually wants it solved.",
+   "key_question": "Whose problem is this, and do they want it solved?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "who actually owns this problem",
+    "is this even my problem",
+    "does anyone want this fixed",
+    "different people describe this problem differently"
+   ],
+   "produces": "a one-sentence problem statement with its owner named, and whether it should be solved at all",
+   "failure_mode": "Assuming the person who reported the problem is the one who has it.",
+   "time_cost": "quick",
+   "group": "either",
+   "questions": [
+    {
+     "text": "What exactly is the problem, as a gap between what is wanted and what is seen?",
+     "paraphrased": true
+    },
+    {
+     "text": "Whose problem is it?",
+     "paraphrased": true
+    },
+    {
+     "text": "Where did the problem come from, and who might have caused it?",
+     "paraphrased": true
+    },
+    {
+     "text": "Do we, and do they, really want it solved?",
+     "paraphrased": true
+    },
+    {
+     "text": "If we solved it, what new problem would we create?",
+     "paraphrased": true
+    }
+   ],
+   "pairs_with": [
+    "frame.stakeholder-map",
+    "frame.problem-statement"
+   ]
+  },
+  {
+   "slug": "frame.how-might-we",
+   "name": "How might we",
+   "kind": "method",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Min Basadur; popularised by IDEO",
+    "work": "Basadur's Simplex process",
+    "type": "industry",
+    "year": "1970s"
+   },
+   "source_verified": false,
+   "summary": "Rewrite a complaint as an open question starting 'how might we'. Too broad gives no grip, too narrow presupposes the answer; adjust until it is answerable but open.",
+   "key_question": "How might we... (and is that the right width)?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "turn this complaint into a question",
+    "how do I phrase the challenge",
+    "write a problem statement for a workshop",
+    "our challenge is too vague"
+   ],
+   "produces": "one 'how might we' question that is open but answerable, plus the rejected broader and narrower versions",
+   "failure_mode": "A question so narrow it already contains the solution.",
+   "time_cost": "quick",
+   "group": "either",
+   "steps": [
+    "Write the complaint or insight in plain words.",
+    "Rewrite it as a question starting 'how might we'.",
+    "Test breadth: if any idea would fit, make it narrower.",
+    "Test narrowness: if it names the solution, make it broader.",
+    "Write two variants and keep the one that invites the most different ideas."
+   ],
+   "pairs_with": [
+    "create.diverge-then-converge",
+    "frame.abstraction-ladder"
+   ]
+  },
+  {
+   "slug": "frame.abstraction-ladder",
+   "name": "Why and what's stopping",
+   "kind": "method",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Min Basadur; S. I. Hayakawa",
+    "work": "Simplex; Language in Thought and Action",
+    "type": "academic",
+    "year": "1939; 1995"
+   },
+   "source_verified": false,
+   "summary": "Ask 'why' to move up to the broader goal, 'what is stopping us' to move down to concrete obstacles. Each rung is a different problem; choose the rung worth solving.",
+   "key_question": "Should I solve this problem, the one above it, or the one below it?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "is this the right level to solve at",
+    "why do we want this anyway",
+    "the problem is too big to start",
+    "the problem is too small to matter"
+   ],
+   "produces": "a ladder of three to five problem statements from broad to concrete, with the chosen rung marked",
+   "failure_mode": "Climbing so high the problem becomes 'make the world better', which offers no grip.",
+   "time_cost": "quick",
+   "group": "either",
+   "steps": [
+    "Write the problem as a 'how might we' statement.",
+    "Ask why you want that; write the answer as a broader statement above it.",
+    "Ask what is stopping you; write each obstacle as a narrower statement below it.",
+    "Repeat up and down two or three times.",
+    "Choose the rung that is both worth solving and within reach."
+   ],
+   "pairs_with": [
+    "frame.how-might-we",
+    "solve.issue-tree"
+   ]
+  },
+  {
+   "slug": "frame.sense-domains",
+   "name": "Sense-making domains",
+   "kind": "model",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Dave Snowden & Mary Boone",
+    "work": "A Leader's Framework for Decision Making (HBR), Cynefin framework",
+    "type": "practitioner",
+    "year": 2007,
+    "note": "Cynefin name: check trademark before using it in the method name."
+   },
+   "source_verified": false,
+   "summary": "Classify the situation as clear (best practice exists), complicated (experts can analyse it), complex (cause is only visible in hindsight, so probe and learn) or chaotic (act first to stabilise). Each needs a different method.",
+   "key_question": "Is cause and effect knowable in advance here, or only in hindsight?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "what kind of problem is this",
+    "should we analyse or experiment",
+    "nothing we plan works out",
+    "this is a crisis, where do we start"
+   ],
+   "produces": "the situation classified as clear, complicated, complex or chaotic, with the matching approach",
+   "failure_mode": "Treating a complex situation as complicated and commissioning analysis instead of small probes.",
+   "time_cost": "quick",
+   "group": "either",
+   "pairs_with": [
+    "solve.smallest-test",
+    "frame.wicked-problems"
+   ]
+  },
+  {
+   "slug": "frame.jobs-to-be-done",
+   "name": "Jobs to be done",
+   "kind": "model",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Clayton Christensen et al.; Tony Ulwick",
+    "work": "Competing Against Luck; Jobs to Be Done",
+    "type": "academic",
+    "year": "2016"
+   },
+   "source_verified": false,
+   "summary": "People hire a product or a solution to make progress in a specific circumstance. Frame the problem as the progress someone is trying to make, not as the feature or the demographic.",
+   "key_question": "What progress is this person trying to make, in what circumstance?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "why do customers buy this",
+    "what do users really need",
+    "we keep building features nobody uses",
+    "who is our real competition"
+   ],
+   "produces": "a job statement: the situation, the progress wanted and the outcome that counts as success",
+   "failure_mode": "Writing the job as a feature or a demographic instead of the progress the person wants.",
+   "time_cost": "quick",
+   "group": "either",
+   "pairs_with": [
+    "frame.how-might-we",
+    "create.morphological-box"
+   ]
+  },
+  {
+   "slug": "frame.sensemaking",
+   "name": "Retrospective sensemaking",
+   "kind": "model",
+   "mode": "audit",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Karl Weick",
+    "work": "Sensemaking in Organizations",
+    "type": "academic",
+    "year": 1995
+   },
+   "source_verified": false,
+   "summary": "People make sense of a situation by acting and then building a plausible story around the results; plausibility wins over accuracy. Check whether the current story was built after the fact to justify a reaction.",
+   "key_question": "Is my account of what is going on the most accurate one, or only the most plausible?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "are we just telling ourselves a story",
+    "we explained this away too fast",
+    "the explanation came after the reaction",
+    "check our narrative about what happened"
+   ],
+   "produces": "the current story with the actions it was built to justify, and what it leaves unexplained",
+   "failure_mode": "Replacing one plausible story with another without checking either against the facts.",
+   "time_cost": "quick",
+   "group": "either",
+   "pairs_with": [
+    "frame.ladder-of-inference",
+    "solve.abduction"
+   ]
+  },
+  {
+   "slug": "frame.iceberg",
+   "name": "Iceberg model",
+   "kind": "model",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Systems thinking tradition (Senge; Meadows)",
+    "work": "The Fifth Discipline; Thinking in Systems",
+    "type": "practitioner",
+    "year": "1990; 2008",
+    "note": "Commonly attributed to the systems thinking tradition; no single canonical originator."
+   },
+   "source_verified": false,
+   "summary": "Look below the event to the pattern, below the pattern to the structure producing it, below the structure to the beliefs that hold the structure in place.",
+   "key_question": "Is this an event, a pattern, a structure or a belief?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "this keeps happening",
+    "we fix it and it comes back",
+    "what's the underlying cause",
+    "look beyond the symptom"
+   ],
+   "produces": "four layers written out: the event, the pattern, the structure and the beliefs behind it",
+   "failure_mode": "Stopping at the pattern layer and calling a trend a cause.",
+   "time_cost": "quick",
+   "group": "either",
+   "pairs_with": [
+    "solve.causal-loops",
+    "solve.leverage-points"
+   ]
+  },
+  {
+   "slug": "frame.ladder-of-inference",
+   "name": "Ladder of inference",
+   "kind": "model",
+   "mode": "audit",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Chris Argyris; Peter Senge",
+    "work": "Overcoming Organizational Defenses; The Fifth Discipline",
+    "type": "academic",
+    "year": "1990"
+   },
+   "source_verified": false,
+   "summary": "We select data, add meaning, make assumptions, draw conclusions and act, often in seconds. Climb back down: what was actually observed, before the meaning was added?",
+   "key_question": "What did I actually observe, before I added an interpretation?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "am I jumping to conclusions",
+    "we disagree about what happened",
+    "I assumed the worst",
+    "check my reasoning about this person"
+   ],
+   "produces": "the conclusion traced back to the observed data, with each added meaning or assumption marked",
+   "failure_mode": "Treating your selection of data as the whole of what happened.",
+   "time_cost": "quick",
+   "group": "either",
+   "pairs_with": [
+    "challenge.key-assumptions",
+    "frame.humble-inquiry"
+   ]
+  },
+  {
+   "slug": "frame.control-map",
+   "name": "What is in my control",
+   "kind": "model",
+   "mode": "constraint",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Epictetus; Stephen Covey",
+    "work": "Enchiridion; The 7 Habits of Highly Effective People",
+    "type": "tradition",
+    "year": "c. 125; 1989"
+   },
+   "source_verified": false,
+   "summary": "Sort every element of the situation into what you control, what you influence and what you neither control nor influence. Effort goes to the first two.",
+   "key_question": "Which part of this is actually mine to act on?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "what can I actually change",
+    "I'm worrying about things I can't control",
+    "where should I focus my energy",
+    "everything feels out of my hands"
+   ],
+   "produces": "three lists: what you control, what you influence, what you do neither, with the next action for the first two",
+   "failure_mode": "Putting other people's choices in the control column.",
+   "time_cost": "quick",
+   "group": "either",
+   "pairs_with": [
+    "frame.how-might-we",
+    "decide.doors"
+   ]
+  },
+  {
+   "slug": "frame.polarity",
+   "name": "Problem or polarity?",
+   "kind": "model",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Barry Johnson",
+    "work": "Polarity Management",
+    "type": "practitioner",
+    "year": 1992
+   },
+   "source_verified": false,
+   "summary": "Some 'problems' are pairs of interdependent goods (stability and change, centralised and local) that cannot be solved, only managed over time. Treating a polarity as a problem produces oscillation.",
+   "key_question": "Is this a problem with a solution, or a tension to manage indefinitely?",
+   "status": "complete",
+   "tension_with": [
+    "solve.issue-tree"
+   ],
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "we keep swinging back and forth",
+    "centralise or decentralise",
+    "this debate never ends",
+    "both sides have a point"
+   ],
+   "produces": "the two poles named, the upside and downside of each, and early warning signs for over-correcting",
+   "failure_mode": "Labelling a real problem with a single answer as a polarity to avoid deciding.",
+   "time_cost": "quick",
+   "group": "either",
+   "pairs_with": [
+    "create.janusian",
+    "decide.scenarios"
+   ]
+  },
+  {
+   "slug": "frame.wicked-problems",
+   "name": "Tame or wicked",
+   "kind": "model",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Horst Rittel & Melvin Webber; Russell Ackoff",
+    "work": "Dilemmas in a General Theory of Planning; Redesigning the Future (messes)",
+    "type": "academic",
+    "year": "1973; 1974"
+   },
+   "source_verified": false,
+   "summary": "A wicked problem has no definitive formulation, no stopping rule and no right answer, only better or worse ones, and every attempt changes it. Ackoff's 'mess' is a system of interacting problems.",
+   "key_question": "Will solving this change the problem itself?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "this problem has no clear answer",
+    "every fix creates a new problem",
+    "the problem keeps changing",
+    "too many interconnected issues"
+   ],
+   "produces": "the problem classified as tame or wicked, and for a wicked one, the interacting sub-problems",
+   "failure_mode": "Applying a tame-problem method and declaring victory at the first stopping point.",
+   "time_cost": "quick",
+   "group": "either",
+   "pairs_with": [
+    "frame.sense-domains",
+    "frame.stakeholder-map"
+   ]
+  },
+  {
+   "slug": "frame.socratic",
+   "name": "Socratic questioning",
+   "kind": "question_bank",
+   "mode": "audit",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Socratic tradition; Richard Paul & Linda Elder",
+    "work": "The Thinker's Guide to Socratic Questioning",
+    "type": "tradition",
+    "year": "2006",
+    "url": "https://criticalthinking.org/store/products/art-of-socratic-questioning/231"
+   },
+   "source_verified": true,
+   "summary": "Six families of questions: clarify the concept, probe assumptions, probe evidence, consider other viewpoints, trace implications, question the question.",
+   "key_question": "What am I assuming that I have not examined?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "question my thinking",
+    "probe my assumptions",
+    "help me think this through critically",
+    "what am I taking for granted"
+   ],
+   "produces": "a set of answered questions across the six families, with the weakest answer marked",
+   "failure_mode": "Asking the questions as a quiz instead of following the weakest answer down.",
+   "time_cost": "quick",
+   "group": "either",
+   "questions": [
+    {
+     "text": "What exactly do you mean by the key term here?",
+     "paraphrased": true
+    },
+    {
+     "text": "What are you assuming that you have not said?",
+     "paraphrased": true
+    },
+    {
+     "text": "What evidence supports this, and how good is it?",
+     "paraphrased": true
+    },
+    {
+     "text": "How would someone who disagrees see it?",
+     "paraphrased": true
+    },
+    {
+     "text": "If this is true, what follows from it?",
+     "paraphrased": true
+    },
+    {
+     "text": "Why is this the question worth asking?",
+     "paraphrased": true
+    }
+   ],
+   "pairs_with": [
+    "challenge.key-assumptions",
+    "frame.ladder-of-inference"
+   ]
+  },
+  {
+   "slug": "frame.humble-inquiry",
+   "name": "Humble inquiry",
+   "kind": "principle",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Edgar Schein",
+    "work": "Humble Inquiry",
+    "type": "practitioner",
+    "year": 2013
+   },
+   "source_verified": false,
+   "summary": "Ask questions to which you do not already know the answer, out of genuine curiosity about the other person's view. Applies when the problem involves other people whose account you are guessing.",
+   "key_question": "Have I asked the people involved, or only assumed what they think?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "I don't understand their side",
+    "how do I talk to them about this",
+    "the other person sees it differently",
+    "I think I know what they want"
+   ],
+   "produces": "a list of open questions to ask the other people involved and what each answer would change",
+   "failure_mode": "Asking leading questions that already contain your view.",
+   "time_cost": "quick",
+   "group": "either",
+   "pairs_with": [
+    "frame.stakeholder-map",
+    "frame.clean-language"
+   ]
+  },
+  {
+   "slug": "frame.clean-language",
+   "name": "Clean language",
+   "kind": "question_bank",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "David Grove; James Lawley & Penny Tompkins",
+    "work": "Metaphors in Mind",
+    "type": "practitioner",
+    "year": 2000,
+    "url": "https://www.crownhouse.co.uk/metaphors-in-mind"
+   },
+   "source_verified": true,
+   "summary": "Use the person's own words and metaphors back to them with minimal, content-free questions ('and what kind of X is that X?'). Surfaces how someone actually represents a problem.",
+   "key_question": "What is this like, in my own words, before anyone rephrases it?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "help me describe what this feels like",
+    "I can't put this into words",
+    "explore what they mean without leading them",
+    "what's my metaphor for this problem"
+   ],
+   "produces": "the person's own description and metaphor for the problem, in their words",
+   "failure_mode": "Introducing your own words or metaphors into the questions.",
+   "time_cost": "quick",
+   "group": "either",
+   "questions": [
+    {
+     "text": "And what kind of X is that X?",
+     "paraphrased": true
+    },
+    {
+     "text": "And is there anything else about X?",
+     "paraphrased": true
+    },
+    {
+     "text": "And where is X, or whereabouts?",
+     "paraphrased": true
+    },
+    {
+     "text": "And what happens just before X?",
+     "paraphrased": true
+    },
+    {
+     "text": "And then what happens?",
+     "paraphrased": true
+    },
+    {
+     "text": "And what would you like to have happen?",
+     "paraphrased": true
+    }
+   ],
+   "pairs_with": [
+    "frame.coaching-questions",
+    "frame.humble-inquiry"
+   ]
+  },
+  {
+   "slug": "frame.affect-labeling",
+   "name": "Name the feeling first",
+   "kind": "principle",
+   "mode": "audit",
+   "evidence_class": "empirical",
+   "origin": {
+    "author": "Matthew Lieberman et al.",
+    "work": "Putting feelings into words (Psychological Science)",
+    "type": "academic",
+    "year": 2007
+   },
+   "source_verified": false,
+   "summary": "Putting a precise word to an emotion lowers its intensity. When a problem is charged, label the feeling before framing the problem, or the feeling frames it.",
+   "key_question": "What exactly am I feeling about this, in one precise word?",
+   "status": "complete",
+   "evidence_note": "Affect labeling reduced amygdala response (Lieberman et al. 2007). Effect replicated in several paradigms; self-help translation is extrapolation.",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "I'm too upset to think about this",
+    "this situation makes me angry",
+    "I'm anxious about the decision",
+    "I can't think straight"
+   ],
+   "produces": "one or two precise words for the feeling, written before the problem is framed",
+   "failure_mode": "Using a vague label like 'stressed' that names nothing specific.",
+   "time_cost": "quick",
+   "group": "either",
+   "pairs_with": [
+    "frame.control-map",
+    "frame.coaching-questions"
+   ]
+  },
+  {
+   "slug": "frame.hamming-question",
+   "name": "The Hamming question",
+   "kind": "principle",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Richard Hamming",
+    "work": "You and Your Research (talk)",
+    "type": "practitioner",
+    "year": 1986
+   },
+   "source_verified": false,
+   "summary": "What are the most important problems in your area, and why are you not working on them? Checks whether the problem in hand is the one that matters.",
+   "key_question": "Is this the most important problem I could be working on, and if not, why am I here?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "am I working on the right thing",
+    "what matters most in my work",
+    "I'm busy but not making progress",
+    "is this problem worth my time"
+   ],
+   "produces": "the most important problems in your area listed, with your reason for not working on each",
+   "failure_mode": "Listing important problems and then returning to the current one without a reason.",
+   "time_cost": "quick",
+   "group": "either",
+   "pairs_with": [
+    "frame.abstraction-ladder",
+    "decide.value-focused"
+   ]
+  },
+  {
+   "slug": "frame.problem-statement",
+   "name": "5W2H problem statement",
+   "kind": "method",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Industrial quality practice (Kipling's six honest serving-men)",
+    "work": "Quality management practice",
+    "type": "industry"
+   },
+   "source_verified": false,
+   "summary": "Who, what, where, when, why, how and how much, answered in one paragraph. Forces specifics and exposes what is unknown.",
+   "key_question": "Which of who, what, where, when, why, how, how much can I not answer yet?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "define the problem clearly",
+    "write a problem statement",
+    "we need to be specific about the issue",
+    "what do we actually know about this problem"
+   ],
+   "produces": "a one-paragraph problem statement answering who, what, where, when, why, how and how much, with unknowns marked",
+   "failure_mode": "Filling in the blanks with guesses and not marking them as unknown.",
+   "time_cost": "quick",
+   "group": "either",
+   "steps": [
+    "Write who is affected.",
+    "Write what is happening, in observable terms.",
+    "Write where and when it happens.",
+    "Write why it matters and how it shows up.",
+    "Write how much: size, frequency or cost.",
+    "Mark every answer that is a guess.",
+    "Combine into one paragraph."
+   ],
+   "pairs_with": [
+    "solve.is-is-not",
+    "solve.issue-tree"
+   ]
+  },
+  {
+   "slug": "frame.stakeholder-map",
+   "name": "Stakeholder map",
+   "kind": "method",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "R. Edward Freeman",
+    "work": "Strategic Management: A Stakeholder Approach",
+    "type": "academic",
+    "year": 1984
+   },
+   "source_verified": false,
+   "summary": "List everyone affected and everyone who can affect the outcome, with what each wants and how much power each has. Problems often look different from each seat.",
+   "key_question": "Who else has a stake in this, and what do they want?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "who is affected by this",
+    "who do I need on board",
+    "map the people involved",
+    "whose support do I need"
+   ],
+   "produces": "a map of affected and influential parties with what each wants and how much power each has",
+   "failure_mode": "Leaving out the people with power to block the outcome because they are not obviously involved.",
+   "time_cost": "quick",
+   "group": "either",
+   "steps": [
+    "List everyone affected by the problem or its solution.",
+    "List everyone who can affect the outcome.",
+    "For each, write what they want and what they fear.",
+    "Rate each party's power and interest.",
+    "Restate the problem from the seat of the two most powerful parties."
+   ],
+   "pairs_with": [
+    "frame.lights-on",
+    "decide.weighted-criteria"
+   ]
+  },
+  {
+   "slug": "frame.orient",
+   "name": "Orient before acting",
+   "kind": "principle",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "John Boyd",
+    "work": "OODA loop briefings (Patterns of Conflict)",
+    "type": "practitioner",
+    "year": "1976–1986"
+   },
+   "source_verified": false,
+   "summary": "Orientation (the lens of experience, culture and prior beliefs) shapes what you observe and what you decide. Examine the orientation before trusting the observation.",
+   "key_question": "What in my background is shaping what I notice here?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "am I seeing this clearly",
+    "my experience might be misleading me",
+    "check my starting assumptions",
+    "we all came at this with the same background"
+   ],
+   "produces": "a note on the experience, culture and beliefs shaping how the situation is being observed",
+   "failure_mode": "Naming the lens and then trusting the observation unchanged.",
+   "time_cost": "quick",
+   "group": "either",
+   "pairs_with": [
+    "frame.ladder-of-inference",
+    "frame.sense-domains"
+   ]
+  },
+  {
+   "slug": "frame.discover-define",
+   "name": "Discover, then define",
+   "kind": "method",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "UK Design Council",
+    "work": "Double Diamond",
+    "type": "industry",
+    "year": 2005
+   },
+   "source_verified": false,
+   "summary": "Widen first (gather, observe, listen without narrowing), then narrow to a defined problem statement. The first diamond of the Double Diamond.",
+   "key_question": "Have I widened enough before narrowing to a problem statement?",
+   "status": "complete",
+   "stages": [
+    "frame"
+   ],
+   "use_when": [
+    "we jumped to a solution too fast",
+    "research before defining the problem",
+    "understand the problem before building",
+    "start a design project"
+   ],
+   "produces": "a defined problem statement backed by the observations gathered in the widening phase",
+   "failure_mode": "Narrowing before enough has been gathered, so the definition repeats the initial assumption.",
+   "time_cost": "deep",
+   "group": "either",
+   "steps": [
+    "Set a time box for the widening phase.",
+    "Gather: observe, interview, collect data without filtering.",
+    "Write down surprises and contradictions.",
+    "Cluster what you found into themes.",
+    "Narrow: write a problem statement that the themes support.",
+    "Check it against the surprises; if it ignores them, widen again."
+   ],
+   "pairs_with": [
+    "frame.how-might-we",
+    "create.diverge-then-converge"
+   ]
+  },
+  {
+   "slug": "challenge.key-assumptions",
+   "name": "Key assumptions check",
+   "kind": "method",
+   "mode": "audit",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "US intelligence community",
+    "work": "A Tradecraft Primer",
+    "type": "industry",
+    "year": 2009
+   },
+   "source_verified": false,
+   "summary": "List every assumption the conclusion rests on, rate how well supported each is, and name what would make it false. Shows which unexamined assumption carries the most weight.",
+   "key_question": "Which assumption, if false, brings the whole conclusion down?",
+   "status": "complete",
+   "stages": [
+    "stress_test"
+   ],
+   "use_when": [
+    "what am I assuming here",
+    "check the assumptions in this plan",
+    "what has to be true for this to work",
+    "this all rests on something"
+   ],
+   "produces": "a list of assumptions rated by support, with what would make each false and the weakest load-bearing one marked",
+   "failure_mode": "Listing only assumptions that are easy to defend.",
+   "time_cost": "medium",
+   "group": "either",
+   "steps": [
+    "Write the conclusion or plan.",
+    "List every assumption it depends on, stated and unstated.",
+    "Rate each: well supported, partly supported, unsupported.",
+    "For each, write what would make it false.",
+    "Mark the assumptions that carry the most weight and are least supported."
+   ],
+   "pairs_with": [
+    "challenge.crux",
+    "challenge.red-team"
+   ],
+   "borrowed_from": "pantarhei-challenge"
+  },
+  {
+   "slug": "create.diverge-then-converge",
+   "name": "Diverge, then converge",
+   "kind": "principle",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "J. P. Guilford; Alex Osborn",
+    "work": "The Nature of Human Intelligence; Applied Imagination",
+    "type": "academic",
+    "year": "1967; 1953",
+    "note": "Guilford coined divergent/convergent production; Osborn's deferred-judgment rule.",
+    "url": "https://kansalliskirjasto.finna.fi/Record/fikka.196746"
+   },
+   "source_verified": true,
+   "summary": "Generate first with judgment switched off, evaluate afterwards in a separate pass. Mixing the two kills weak-but-promising ideas before they can be improved.",
+   "key_question": "Am I judging ideas while I am still supposed to be producing them?",
+   "status": "complete",
+   "card": "No judging for the next ten ideas. Write the bad ones too.",
+   "stages": [
+    "generate"
+   ],
+   "use_when": [
+    "I keep shooting down my own ideas",
+    "we argue about ideas as soon as they are said",
+    "I want a big list first and a shortlist later",
+    "every idea gets criticised in the room"
+   ],
+   "produces": "two separated passes: an unjudged idea list, then a shortlist",
+   "failure_mode": "The judging pass never happens and the unfiltered list is treated as the result.",
+   "time_cost": "quick",
+   "group": "either",
+   "pairs_with": [
+    "create.idea-quota",
+    "create.brainwriting"
+   ],
+   "borrowed_from": "pantarhei-brainstorm"
+  },
+  {
+   "slug": "create.janusian",
+   "name": "Hold both opposites",
+   "kind": "principle",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Albert Rothenberg",
+    "work": "The Emerging Goddess",
+    "type": "academic",
+    "year": 1979
+   },
+   "source_verified": false,
+   "summary": "Conceive two opposite or contradictory ideas as true at the same time and build from the tension rather than choosing one.",
+   "key_question": "What if both of the opposing options were true at once?",
+   "status": "complete",
+   "card": "Write the two opposites. Design something where both hold.",
+   "stages": [
+    "generate"
+   ],
+   "use_when": [
+    "two opposite options both seem right",
+    "I don't want to choose between these",
+    "how can it be both cheap and premium",
+    "reconcile two conflicting demands"
+   ],
+   "produces": "an idea in which two opposing statements are both treated as true",
+   "failure_mode": "Collapsing into a compromise instead of holding both statements as fully true.",
+   "time_cost": "medium",
+   "group": "solo",
+   "pairs_with": [
+    "create.triz-contradiction",
+    "create.constraint-injection"
+   ],
+   "borrowed_from": "pantarhei-brainstorm"
+  },
+  {
+   "slug": "create.morphological-box",
+   "name": "Morphological box",
+   "kind": "method",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Fritz Zwicky",
+    "work": "Discovery, Invention, Research through the Morphological Approach",
+    "type": "academic",
+    "year": 1969,
+    "url": "https://mathshistory.st-andrews.ac.uk/Extras/Zwicky_books"
+   },
+   "source_verified": true,
+   "summary": "List the independent dimensions of a solution, list options on each, then combine one option per dimension. Makes the whole design space visible and surfaces combinations nobody would have proposed.",
+   "key_question": "What are the dimensions, and which combination has nobody tried?",
+   "status": "complete",
+   "aka": [
+    "General morphological analysis",
+    "Zwicky box"
+   ],
+   "card": "Three columns, five options each. Pick a combination at random and defend it.",
+   "stages": [
+    "generate"
+   ],
+   "use_when": [
+    "I need a new product concept",
+    "there are several independent choices in this design",
+    "systematically explore all the combinations",
+    "what hasn't been tried"
+   ],
+   "steps": [
+    "List the independent dimensions of the solution (for example who, where, how, when, price).",
+    "Under each dimension write every option you can think of.",
+    "Make sure dimensions are independent of each other; merge any that are not.",
+    "Choose one option per dimension to form a concept; do this many times, including odd combinations.",
+    "Select the combinations that nobody around you would have proposed."
+   ],
+   "produces": "a grid of dimensions and options plus a list of unusual combinations",
+   "failure_mode": "Dimensions that depend on each other, which produces impossible combinations.",
+   "time_cost": "medium",
+   "group": "either",
+   "pairs_with": [
+    "create.errc-grid",
+    "create.constraint-injection"
+   ],
+   "borrowed_from": "pantarhei-brainstorm"
+  },
+  {
+   "slug": "decide.doors",
+   "name": "One-way and two-way doors",
+   "kind": "principle",
+   "mode": "constraint",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Jeff Bezos",
+    "work": "Amazon shareholder letter",
+    "type": "industry",
+    "year": 2015
+   },
+   "source_verified": false,
+   "summary": "Reversible decisions should be made fast and by few people; irreversible ones slowly and carefully. Most decisions are reversible and are treated as if they were not.",
+   "key_question": "If this goes wrong, can I walk back through the door?",
+   "status": "complete",
+   "stages": [
+    "decide"
+   ],
+   "use_when": [
+    "is this decision reversible",
+    "how carefully should I decide this",
+    "we're overthinking a small decision",
+    "can we undo this"
+   ],
+   "produces": "the decision classified as reversible or not, with the matching speed and number of people",
+   "failure_mode": "Treating an irreversible decision as reversible because it is convenient.",
+   "time_cost": "quick",
+   "group": "either",
+   "pairs_with": [
+    "decide.real-options",
+    "decide.satisficing"
+   ],
+   "borrowed_from": "pantarhei-decide"
+  },
+  {
+   "slug": "decide.scenarios",
+   "name": "Scenario planning",
+   "kind": "method",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Pierre Wack; Peter Schwartz",
+    "work": "Scenarios: Uncharted Waters Ahead (HBR); The Art of the Long View",
+    "type": "industry",
+    "year": "1985; 1991"
+   },
+   "source_verified": false,
+   "summary": "Pick the two most uncertain and most important drivers, cross them into four plausible futures, and test each option against all four. The aim is robustness, not prediction.",
+   "key_question": "Does this option survive in all four futures, or only the one I expect?",
+   "status": "complete",
+   "stages": [
+    "decide"
+   ],
+   "use_when": [
+    "the future is too uncertain to plan",
+    "what if things change",
+    "plan for different futures",
+    "robust strategy"
+   ],
+   "produces": "four scenarios from two crossed uncertainties, with each option rated for robustness across them",
+   "failure_mode": "Picking drivers that are uncertain but unimportant, or important but predictable.",
+   "time_cost": "deep",
+   "group": "group",
+   "steps": [
+    "List the drivers that will shape the outcome.",
+    "Pick the two that are most uncertain and most important.",
+    "Cross them to make four futures and name each.",
+    "Write a short story for each future.",
+    "Test each option in all four; prefer the one that holds up across most."
+   ],
+   "pairs_with": [
+    "decide.real-options",
+    "decide.premortem"
+   ],
+   "borrowed_from": "pantarhei-decide"
+  },
+  {
+   "slug": "decide.value-focused",
+   "name": "Value-focused thinking",
+   "kind": "principle",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Ralph Keeney",
+    "work": "Value-Focused Thinking",
+    "type": "academic",
+    "year": 1992
+   },
+   "source_verified": false,
+   "summary": "Start from what you value, not from the options available. Options built from values beat the best of the given menu.",
+   "key_question": "What do I actually want, before I look at what is on offer?",
+   "status": "complete",
+   "stages": [
+    "decide"
+   ],
+   "use_when": [
+    "what do I actually want",
+    "none of these options feel right",
+    "what matters most to me here",
+    "start from my goals"
+   ],
+   "produces": "a list of the values at stake and new options built from them",
+   "failure_mode": "Listing values that are really features of the options already on the table.",
+   "time_cost": "medium",
+   "group": "either",
+   "pairs_with": [
+    "decide.values-check",
+    "decide.weighted-criteria"
+   ],
+   "borrowed_from": "pantarhei-decide"
+  },
+  {
+   "slug": "decide.weighted-criteria",
+   "name": "Weighted criteria",
+   "kind": "method",
+   "mode": "lens",
+   "evidence_class": "formal",
+   "origin": {
+    "author": "Ralph Keeney & Howard Raiffa",
+    "work": "Decisions with Multiple Objectives",
+    "type": "academic",
+    "year": 1976
+   },
+   "source_verified": false,
+   "summary": "Name the criteria, weight them before scoring, score each option, sum. The value is in the weighting conversation; the total is only as good as the weights.",
+   "key_question": "Did I set the weights before I saw the scores?",
+   "status": "complete",
+   "tension_with": [
+    "decide.gut-check",
+    "decide.fast-frugal"
+   ],
+   "stages": [
+    "decide"
+   ],
+   "use_when": [
+    "compare these options",
+    "score these choices",
+    "which option is best overall",
+    "decision matrix"
+   ],
+   "produces": "a scoring table with weights set before scoring, totals, and a sensitivity check on the weights",
+   "failure_mode": "Adjusting weights after scoring until the preferred option wins.",
+   "time_cost": "medium",
+   "group": "either",
+   "steps": [
+    "List the options.",
+    "Name the criteria that matter.",
+    "Assign weights before looking at scores.",
+    "Score each option on each criterion.",
+    "Multiply and sum.",
+    "Check whether a reasonable change in weights changes the winner."
+   ],
+   "pairs_with": [
+    "decide.even-swaps",
+    "decide.gut-check"
+   ],
+   "borrowed_from": "pantarhei-decide"
+  },
+  {
+   "slug": "solve.abduction",
+   "name": "Inference to the best explanation",
+   "kind": "model",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Charles Sanders Peirce",
+    "work": "Lectures on Pragmatism",
+    "type": "academic",
+    "year": 1903
+   },
+   "source_verified": false,
+   "summary": "From a surprising fact, infer the hypothesis that would make it unsurprising. Generates the candidate causes that deduction and testing then check.",
+   "key_question": "What hypothesis would make this surprising fact expected?",
+   "status": "complete",
+   "stages": [
+    "decompose"
+   ],
+   "use_when": [
+    "what could explain this",
+    "this result surprises me",
+    "come up with possible explanations",
+    "why would this happen"
+   ],
+   "produces": "a list of candidate explanations for the surprising fact, ranked by how well each would make it expected",
+   "failure_mode": "Stopping at the first explanation that fits, without generating rivals.",
+   "time_cost": "medium",
+   "group": "either",
+   "pairs_with": [
+    "challenge.ach",
+    "solve.differential-diagnosis"
+   ],
+   "borrowed_from": "pantarhei-solve"
+  },
+  {
+   "slug": "solve.causal-loops",
+   "name": "Causal loop diagram",
+   "kind": "method",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Jay Forrester; Peter Senge",
+    "work": "Industrial Dynamics; The Fifth Discipline",
+    "type": "academic",
+    "year": "1961; 1990"
+   },
+   "source_verified": false,
+   "summary": "Draw variables and the arrows between them, marking reinforcing and balancing loops. Explains why fixes backfire and why problems persist.",
+   "key_question": "Which loop keeps this problem alive?",
+   "status": "complete",
+   "stages": [
+    "decompose"
+   ],
+   "use_when": [
+    "why do our fixes backfire",
+    "this problem keeps reinforcing itself",
+    "map the dynamics",
+    "vicious cycle"
+   ],
+   "produces": "a causal loop diagram with reinforcing and balancing loops labelled and the dominant loop marked",
+   "failure_mode": "Drawing every possible arrow until the diagram explains everything and predicts nothing.",
+   "time_cost": "medium",
+   "group": "either",
+   "steps": [
+    "List the main variables, as quantities that can rise or fall.",
+    "Draw arrows for causal links and mark each as same or opposite direction.",
+    "Find the closed loops and mark each as reinforcing or balancing.",
+    "Add delays where they exist.",
+    "Identify the loop that dominates now and where an intervention would weaken it."
+   ],
+   "pairs_with": [
+    "solve.leverage-points",
+    "frame.iceberg"
+   ],
+   "borrowed_from": "pantarhei-solve"
+  },
+  {
+   "slug": "solve.is-is-not",
+   "name": "Is / is not analysis",
+   "kind": "method",
+   "mode": "lens",
+   "evidence_class": "formal",
+   "origin": {
+    "author": "Charles Kepner & Benjamin Tregoe",
+    "work": "The Rational Manager",
+    "type": "industry",
+    "year": 1965
+   },
+   "source_verified": false,
+   "summary": "Specify where, when and to what extent the problem occurs and, for each, where it could occur but does not. The true cause must explain both columns.",
+   "key_question": "Where could this happen but does not, and what is different there?",
+   "status": "complete",
+   "stages": [
+    "decompose"
+   ],
+   "use_when": [
+    "the bug only happens sometimes",
+    "it works here but not there",
+    "narrow down the cause",
+    "what's different about the failing cases"
+   ],
+   "produces": "a two-column specification of where, when and how much the problem is and is not, and the distinctions between them",
+   "failure_mode": "Leaving the 'is not' column empty, which removes the method's discriminating power.",
+   "time_cost": "medium",
+   "group": "either",
+   "steps": [
+    "Describe what the problem is and what it could be but is not.",
+    "Describe where it occurs and where it could but does not.",
+    "Describe when it occurs and when it could but does not.",
+    "Describe how much: extent and trend, against what it could be.",
+    "List what is distinctive about the 'is' side.",
+    "Test each candidate cause: it must explain both columns."
+   ],
+   "pairs_with": [
+    "solve.differential-diagnosis",
+    "solve.smallest-test"
+   ],
+   "borrowed_from": "pantarhei-solve"
+  },
+  {
+   "slug": "solve.issue-tree",
+   "name": "Issue tree (MECE)",
+   "kind": "method",
+   "mode": "lens",
+   "evidence_class": "formal",
+   "origin": {
+    "author": "Barbara Minto",
+    "work": "The Pyramid Principle",
+    "type": "industry",
+    "year": 1987
+   },
+   "source_verified": false,
+   "summary": "Break the question into sub-questions that are mutually exclusive and collectively exhaustive, then repeat down to questions small enough to answer with data.",
+   "key_question": "Do my branches overlap, and do they cover everything?",
+   "status": "complete",
+   "tension_with": [
+    "frame.reframing-canvas",
+    "frame.polarity",
+    "solve.hypothesis-driven"
+   ],
+   "stages": [
+    "decompose"
+   ],
+   "use_when": [
+    "break this problem down",
+    "structure this question",
+    "where do I even start with this",
+    "too many factors to keep in my head"
+   ],
+   "produces": "a tree two or three levels deep whose branches do not overlap and together cover the question",
+   "failure_mode": "Branches that overlap or leave out a whole category, so the analysis double-counts or misses the cause.",
+   "time_cost": "medium",
+   "group": "either",
+   "steps": [
+    "Write the question at the top as one specific question.",
+    "Split it into three to five sub-questions.",
+    "Check the split: no overlap between branches, nothing left out.",
+    "Split each branch again until each leaf can be answered with data or one analysis.",
+    "Mark the leaves that matter most and answer those first."
+   ],
+   "pairs_with": [
+    "solve.hypothesis-driven",
+    "solve.fermi"
+   ],
+   "borrowed_from": "pantarhei-solve"
+  },
+  {
+   "slug": "solve.leverage-points",
+   "name": "Leverage points",
+   "kind": "model",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Donella Meadows",
+    "work": "Leverage Points: Places to Intervene in a System",
+    "type": "practitioner",
+    "year": 1999
+   },
+   "source_verified": false,
+   "summary": "Twelve places to intervene in a system, from weak (parameters, numbers) to strong (rules, goals, paradigm). Most effort goes into the weakest.",
+   "key_question": "Am I adjusting a number when I should be changing a rule or a goal?",
+   "status": "complete",
+   "stages": [
+    "decompose"
+   ],
+   "use_when": [
+    "where should we intervene",
+    "our changes have no effect",
+    "what would really shift this system",
+    "small change, big effect"
+   ],
+   "produces": "candidate interventions placed on the scale from parameters to paradigms, with the strongest feasible one marked",
+   "failure_mode": "Choosing a high leverage point that cannot actually be moved by the people involved.",
+   "time_cost": "medium",
+   "group": "either",
+   "pairs_with": [
+    "solve.causal-loops",
+    "frame.iceberg"
+   ],
+   "borrowed_from": "pantarhei-solve"
+  },
+  {
+   "slug": "solve.smallest-test",
+   "name": "Smallest test",
+   "kind": "method",
+   "mode": "lens",
+   "evidence_class": "heuristic",
+   "origin": {
+    "author": "Eric Ries; scientific method",
+    "work": "The Lean Startup",
+    "type": "industry",
+    "year": 2011
+   },
+   "source_verified": false,
+   "summary": "Find the cheapest experiment that would change what you do next and run it before building anything larger.",
+   "key_question": "What is the cheapest test whose result would change my plan?",
+   "status": "complete",
+   "stages": [
+    "decompose",
+    "execute"
+   ],
+   "use_when": [
+    "how can we test this cheaply",
+    "before we build the whole thing",
+    "validate this idea",
+    "what's the minimum experiment"
+   ],
+   "produces": "one experiment with its cost, the result that would change the next action, and the decision rule",
+   "failure_mode": "Running a test whose result would not change what you do next.",
+   "time_cost": "quick",
+   "group": "either",
+   "steps": [
+    "Write the belief you are acting on.",
+    "Name the result that would make you act differently.",
+    "Design the cheapest test that could produce that result.",
+    "Write the decision rule before running it.",
+    "Run it and apply the rule."
+   ],
+   "pairs_with": [
+    "solve.pdca",
+    "challenge.update-triggers"
+   ],
+   "borrowed_from": "pantarhei-solve"
+  }
+ ]
+}

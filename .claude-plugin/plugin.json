@@ -1,0 +1,17 @@
+{
+  "name": "pantarhei-reframe",
+  "description": "Reframing and sense-making skill: find the real problem before you solve it.",
+  "version": "0.1.0",
+  "author": {
+    "name": "fairyanna85"
+  },
+  "homepage": "https://github.com/fairyanna85/pantarhei-reframe",
+  "repository": "https://github.com/fairyanna85/pantarhei-reframe",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-skills",
+    "thinking",
+    "mental-models"
+  ]
+}

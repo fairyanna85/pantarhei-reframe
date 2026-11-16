@@ -1,0 +1,214 @@
+{
+  "cases": [
+    {
+      "text": "I don't even know what the actual problem is with my job, I just know I'm unhappy",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "Help me make sense of what's going on with our product launch",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "Can you reframe this situation for me? My cofounder and I keep clashing",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "What question should I actually be asking here?",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "I'm stuck and can't put my finger on why",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "Help me think through whether something is off with how my team runs",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "Untangle this mess for me: three stakeholders, two deadlines, no owner",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "What's the capital of Australia?",
+      "expect": "none"
+    },
+    {
+      "text": "Fix this bug in my Python function",
+      "expect": "none"
+    },
+    {
+      "text": "Convert this PDF to Word",
+      "expect": "none"
+    },
+    {
+      "text": "Schedule a meeting with Mark on Friday",
+      "expect": "none"
+    },
+    {
+      "text": "Summarize this article",
+      "expect": "none"
+    },
+    {
+      "text": "Write a SQL query that groups sales by region",
+      "expect": "none"
+    },
+    {
+      "text": "Translate this paragraph into French",
+      "expect": "none"
+    },
+    {
+      "text": "Everything feels like a priority and I can't tell what the real issue is",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "I keep having the same argument with my sister and I can't work out what it's actually about",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "Something is off at work but I can't say what",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "Help me see this situation from a different perspective",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "I'm overwhelmed by everything going on with the renovation. Help me make sense of it before I do anything",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "Reframe the problem: our onboarding takes too long",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "What's really going on with my team's morale?",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "I feel dissatisfied with my career but I can't name the reason",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "Is this even the right problem to be solving?",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "Help me untangle the tension between product and engineering, I can't see the shape of it",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "I need clarity: is my startup struggling with product, market, or me?",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "We keep arguing about the roadmap and I suspect we're arguing about the wrong thing",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "I'm going in circles about my parents' house and can't tell what the real question is",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "Nothing is technically wrong but I'm unhappy. How should I even think about that?",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "Sense-making help: three teams are blaming each other and I don't know whose problem this is",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "I was told my project is 'not strategic' and I don't understand what that means in practice",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "Zoom out with me, I've been in the weeds so long I've lost the plot",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "I can't tell if the issue is the process, the people or me. Help me see it clearly",
+      "expect": "pantarhei-reframe"
+    },
+    {
+      "text": "What's 17% of 2,340?",
+      "expect": "none"
+    },
+    {
+      "text": "Write a Python script that renames files by date",
+      "expect": "none"
+    },
+    {
+      "text": "What time is it in Tokyo?",
+      "expect": "none"
+    },
+    {
+      "text": "Merge these two PDFs into one",
+      "expect": "none"
+    },
+    {
+      "text": "Draft a Word document with a project status template",
+      "expect": "none"
+    },
+    {
+      "text": "What does the word 'ephemeral' mean?",
+      "expect": "none"
+    },
+    {
+      "text": "Move my 3pm meeting to Thursday",
+      "expect": "none"
+    },
+    {
+      "text": "Review this pull request for security issues",
+      "expect": "none"
+    },
+    {
+      "text": "Who won the World Cup in 2014?",
+      "expect": "none"
+    },
+    {
+      "text": "Explain what a mutex is",
+      "expect": "none"
+    },
+    {
+      "text": "Rewrite this email to sound more polite",
+      "expect": "none"
+    },
+    {
+      "text": "Give me a recipe for banana bread",
+      "expect": "none"
+    },
+    {
+      "text": "Convert 5 miles to kilometres",
+      "expect": "none"
+    },
+    {
+      "text": "Why is my React component re-rendering twice?",
+      "expect": "none"
+    },
+    {
+      "text": "Proofread this paragraph for typos",
+      "expect": "none"
+    },
+    {
+      "text": "Create a spreadsheet of my monthly expenses",
+      "expect": "none"
+    },
+    {
+      "text": "Find free time on my calendar next week",
+      "expect": "none"
+    },
+    {
+      "text": "Summarize the plot of Hamlet",
+      "expect": "none"
+    },
+    {
+      "text": "How do I get unstuck on this project plan?",
+      "expect": "pantarhei-reframe",
+      "contested": true
+    },
+    {
+      "text": "Where do I start with this mess?",
+      "expect": "pantarhei-reframe",
+      "contested": true
+    }
+  ]
+}

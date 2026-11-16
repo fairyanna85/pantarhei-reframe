@@ -1,0 +1,17 @@
+{
+  "name": "pantarhei-reframe",
+  "owner": {
+    "name": "fairyanna85"
+  },
+  "metadata": {
+    "description": "Reframing and sense-making skill: find the real problem before you solve it."
+  },
+  "plugins": [
+    {
+      "name": "pantarhei-reframe",
+      "source": "./",
+      "description": "Reframing and sense-making skill: find the real problem before you solve it.",
+      "version": "0.1.0"
+    }
+  ]
+}
